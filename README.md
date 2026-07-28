@@ -6,13 +6,9 @@
 
 # Sobre mim
 
-###
-
 Me chamo Juan, sou formado em Sistemas de Informação e especialista em Ciência e Análise de Dados. Este é um espaço que utilizo espaço para compartilhar meus estudos, projetos e minha evolução na área de tecnologia.
 
-###
-
-### 🤖 Linguagens e Softwares
+# 🤖 Linguagens e Softwares
 
 <img 
     align="left" 
