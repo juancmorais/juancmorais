@@ -2,7 +2,7 @@
 
 **`Analista de Suporte`** | **`Analista de Dados`**
 
-Oie! Me chamo, sou formado em Sistemas de Informação e especialista em Ciência e Análise de Dados. Este é um espaço para compartilhar meus estudos, projetos e minha evolução na área de tecnologia.
+Oie! Sou formado em Sistemas de Informação e especialista em Ciência e Análise de Dados. Este é um espaço para compartilhar meus estudos, projetos e minha evolução na área de tecnologia.
 
 ---
 
