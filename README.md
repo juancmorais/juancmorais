@@ -1,10 +1,16 @@
-# Juan Carlos
+# Oie! 👋
+
+###
 
 **`Analista de Suporte`** | **`Analista de Dados`**
 
-Oie! Sou formado em Sistemas de Informação e especialista em Ciência e Análise de Dados. Este é um espaço para compartilhar meus estudos, projetos e minha evolução na área de tecnologia.
+Sobre mim
 
----
+###
+
+Me chamo Juan, sou formado em Sistemas de Informação e especialista em Ciência e Análise de Dados. Este é um espaço que utilizo espaço para compartilhar meus estudos, projetos e minha evolução na área de tecnologia.
+
+###
 
 ### 🤖 Linguagens e Softwares
 
