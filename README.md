@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Juan Carlos
+# Juan Carlos
 
 **`Analista de Suporte`** | **`Analista de Dados`**
 
