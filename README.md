@@ -36,50 +36,43 @@
 <img 
     alt="R" 
     title="R"
-    width="30px" 
-    style="padding-right: 15px;" 
+    width="30px"  
     src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/r/r-original.svg" 
-/>
+/> &nbsp;
 <img 
     alt="Spyder" 
     title="Spyder"
     width="30px" 
-    style="padding-right: 15px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/spyder/spyder-original.svg" 
-/>
+/> &nbsp;
 <img 
     alt="PostgreSQL"
     title="PostgreSQL" 
     width="30px" 
-    style="padding-right: 15px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" 
-/> 
+/> &nbsp;
 <img 
     alt="JavaScript"
     title="JavaScript" 
     width="30px" 
-    style="padding-right: 15px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/javascript/javascript-original.svg" 
-/>
+/> &nbsp;
 <img 
     alt="PowerBI"
     title="PowerBI" 
     height="30px" 
-    style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powerbi.svg" 
-  />
+  /> &nbsp;
 <img 
       alt="Power Query"
       title="Power Query"
       height="30px"
-      style="padding-right: 15px;" 
       src="https://i0.wp.com/tableau-excel.com/wp-content/uploads/sites/23/2024/07/Microsoft-Power-Query.png?ssl=1" 
-  />
+  /> &nbsp;
 <img 
       alt="QGis"
       title="QGis"
       height="30px"
-      style="padding-right: 15px;" 
       src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png?_=20180304175057" 
   />
 </div>
