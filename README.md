@@ -50,11 +50,11 @@
     src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/spyder/spyder-original.svg" 
 />
 <img 
-    alt="MySQL"
-    title="MySQL" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mysql/mysql-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1280px-Postgresql_elephant.svg.png" 
 /> 
 <img 
     alt="JavaScript"
