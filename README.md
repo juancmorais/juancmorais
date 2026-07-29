@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="left">🛠 Linguagens e Softwares</h2>
+<h2 align="left">Linguagens e Softwares</h2>
 
 ###
 
