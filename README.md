@@ -25,14 +25,14 @@
     alt="Java"
     title="Java" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 15px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/java/java-original.svg" 
 />
 <img 
     alt="Python" 
     title="Python"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 15px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/python/python-original.svg" 
 />
 <img 
